@@ -8,9 +8,9 @@ Ctrl + [Click Here!](https://repl.it/@ss7sudesh/covid-quiz-CLI?embed=1&output=1)
 The CLI App is made to understand the basics of programming, under [NeoGCamp](https://neog.camp/)'s levelZero by [Tanay Pratap](https://tanaypratap.com/).
 
 ### Demo
-![Demo 1 pic](https://github.com/thesudeshdas/covid19-quiz/blob/master/demo/demo1.png)
-![Demo 2 pic](https://github.com/thesudeshdas/covid19-quiz/blob/master/demo/demo2.png)
-![Demo 3 pic](https://github.com/thesudeshdas/covid19-quiz/blob/master/demo/demo3.png)
+![Demo 1 pic](https://github.com/thesudeshdas/covid-19-quiz/blob/master/demo/demo1.png)
+![Demo 2 pic](https://github.com/thesudeshdas/covid-19-quiz/blob/master/demo/demo2.png)
+![Demo 3 pic](https://github.com/thesudeshdas/covid-19-quiz/blob/master/demo/demo3.png)
 
 ### Tech Used
 * JavaScript
